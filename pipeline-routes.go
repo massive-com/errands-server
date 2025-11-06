@@ -8,8 +8,8 @@ import (
 	"github.com/google/uuid"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/polygon-io/errands-server/schemas"
-	"github.com/polygon-io/errands-server/utils"
+	"github.com/massive-com/errands-server/v2/schemas"
+	"github.com/massive-com/errands-server/v2/utils"
 )
 
 const (

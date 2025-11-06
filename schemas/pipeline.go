@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/polygon-io/errands-server/utils"
+	"github.com/massive-com/errands-server/v2/utils"
 )
 
 // Pipeline represents an errand pipeline which consists of errands and dependencies between them.

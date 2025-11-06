@@ -12,8 +12,8 @@ import (
 
 	gin "github.com/gin-gonic/gin"
 
-	schemas "github.com/polygon-io/errands-server/schemas"
-	utils "github.com/polygon-io/errands-server/utils"
+	schemas "github.com/massive-com/errands-server/v2/schemas"
+	utils "github.com/massive-com/errands-server/v2/utils"
 )
 
 func (s *ErrandsServer) errandNotifications(c *gin.Context) {

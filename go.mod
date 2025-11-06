@@ -1,4 +1,4 @@
-module github.com/polygon-io/errands-server
+module github.com/massive-com/errands-server/v2
 
 go 1.15
 

@@ -1,4 +1,4 @@
-package: github.com/polygon-io/errands-server/schemas
+package: github.com/massive-com/errands-server/v2/schemas
 import:
 # - package: github.com/gin-gonic/gin
 #   version: ^1.3.0
@@ -8,7 +8,7 @@ import:
   subpackages:
   - jlexer
   - jwriter
-- package: github.com/polygon-io/errands-server
-  version: ^1.0.0
+- package: github.com/massive-com/errands-server/v2
+  version: ^2.0.0
   subpackages:
   - utils
