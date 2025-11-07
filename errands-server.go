@@ -14,8 +14,8 @@ import (
 	gin "github.com/gin-gonic/gin"
 
 	binding "github.com/gin-gonic/gin/binding"
-	store "github.com/polygon-io/errands-server/memorydb"
-	schemas "github.com/polygon-io/errands-server/schemas"
+	store "github.com/massive-com/errands-server/v2/memorydb"
+	schemas "github.com/massive-com/errands-server/v2/schemas"
 	validator "gopkg.in/go-playground/validator.v8"
 )
 

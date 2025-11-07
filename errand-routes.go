@@ -6,9 +6,9 @@ import (
 	"net/http"
 
 	gin "github.com/gin-gonic/gin"
-	"github.com/polygon-io/errands-server/metrics"
-	schemas "github.com/polygon-io/errands-server/schemas"
-	utils "github.com/polygon-io/errands-server/utils"
+	"github.com/massive-com/errands-server/v2/metrics"
+	schemas "github.com/massive-com/errands-server/v2/schemas"
+	utils "github.com/massive-com/errands-server/v2/utils"
 )
 
 const inactive = "inactive"

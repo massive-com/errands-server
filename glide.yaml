@@ -1,4 +1,4 @@
-package: github.com/polygon-io/errands-server
+package: github.com/massive-com/errands-server/v2
 import:
 - package: github.com/dgraph-io/badger
   version: ^2.0.0-rc1

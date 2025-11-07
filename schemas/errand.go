@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/polygon-io/errands-server/utils"
+	"github.com/massive-com/errands-server/v2/utils"
 )
 
 type Status string
