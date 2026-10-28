@@ -19,5 +19,5 @@ require (
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v8 v8.18.2
-	gopkg.in/yaml.v3 v3.0.0-20200601152816-913338de1bd2 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
